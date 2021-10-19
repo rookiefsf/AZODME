@@ -1,2 +1,2 @@
-# AZODME
+# azdome
 oazdome official 
